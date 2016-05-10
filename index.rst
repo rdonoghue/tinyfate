@@ -14,6 +14,7 @@ Contents:
    intro
    gettingstarted
    creating
+   basics
    conflict
    nonconflict
    advancedrules

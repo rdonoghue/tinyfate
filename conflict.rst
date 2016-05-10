@@ -1,28 +1,6 @@
-Starting Play
-*************
-
-Once play begins, the GM will describe the situation the characters are in. This may include some background information the characters would know, a physical description of the environment, or other details about what is going on. If relevant, the GM may sketch details of the environment on paper or a whiteboard, or she may use miniatures or placeholders to illustrate the situation. Players may ask questions and describe how their characters act and respond to the circumstances. How long this takes will depend on the situation, and the GM will use her best judgement to draw events to their logical conclusion.
-
-Implicit and Explicit Scenes
-============================
-When the GM describes a situation and the players describe what they do, that is a scene, but that is a very flexible idea.  Sometimes a scene is something very strictly defined, with an start, middle and end.  Sometimes it’s just a loose sketch for play to occur within.
-
-In an explicit scene, things are described in some detail, and the aspects in play on the scene are explicitly articulated. An implicit scene relies on everyone’s understanding of what’s going on, and allows for a lot of leeway in interpretation and improvisation.
-
-Implicit scenes are used when the location is either changing frequently, or is mostly providing color. Explicit scenes can be thought of as sets in a movie - they’re places where a lot of stuff is going to happen. The distinction can be fluid - if the characters are having a conversation on the dining car of a train, that is probably an implicit scene.  But if the waiters pull out submachine guns and a firefight breaks out, then it will probably transition to an explicit scene.
-
-Scene Composition
-=================
-Just as with characters, the building blocks of a scene are aspects. They are the true and interesting things about the scene, and as with characters, they are simple but powerful.  There is no need to lay out every detail of a scene, only the ones that really matter.  It is expected that the GM and players will colorfully extrapolate details from the general idea.
-
-For example, if a scene is taking place in a dark warehouse, then it probably has the aspects Dark  and Warehouse.  Everyone knows what dark means, and warehouse probably suggests that there are rows of boxes, maybe some scaffolding overhead.  You can explore the details as you go.
-
-In an explicit scene, the GM takes the time to write down all of these aspects, and there are some rules related to what it may cost her to add certain things.  In an implicit scene, they go without saying - the aspects will come up if they seem relevant.
-
-The aspects on a scene matter a great deal because they help determine how hard or easy it is to do things.  Hitting a target might not be hard on its own, but if it’s Dark and Foggy  then it’s probably going to be harder.
-
 Conflicts
-=========
+*********
+
 Eventually, a situation will arise where the logical outcome is less obvious, either because it is unwelcome (e.g. the character gets hurt) or uncertain (e.g. can the characters sneak past the guard?). This is a conflict, and it needs to be resolved.
 
 Resolution
@@ -40,7 +18,6 @@ Frame the Scene
 At the outset of the conflict, the GM has the option to add some aspects to the scene, by writing the aspects down on cards and putting them in the middle of the table.
 
 Each card represents a distinct thing, like a character or a piece of scenery, and, as such, cards may have multiple aspects on them. Adding an aspect to the scene means either adding a new card or writing down an aspect on an existing card.  Removing an aspect from the scene means crossing it out (and removing the card entirely, if appropriate).
-
 
 
 It can be easiest to start with a single blank card and add two or three “environmental” aspects to it to start. You could add a card for each one if you like, but however you approach it, the way you describe a scene usually suggests the framing aspects.  Dark and Warehouse  suggests a very different scene than High Society Party and Swanky Penthouse.

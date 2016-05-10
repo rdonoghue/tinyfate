@@ -1,9 +1,9 @@
 About this game
 ***************
 
-The original version of TinyFate was written to my blog at walkingmind.evilhat.com, and is expanded here. The inspiration to write it up more fully was born out out a fantastic post at the Step into RPGs blog (https://stepintorpgs.wordpress.com).
+The original version of TinyFate was written to my blog at http://walkingmind.evilhat.com, and is expanded here. The inspiration to write it up more fully was born out out a fantastic post at the Step into RPGs blog (https://stepintorpgs.wordpress.com).
 
-This game was developed largely in the open, on my blog (http://walkingmind.evilhat.com) and on google docs, and has been vastly improved by feedback from  many people, including:
+This game was developed largely in the open, on my blog  and on google docs, and has been vastly improved by feedback from  many people, including:
 Stephen Morphlew
 Michael McCully
 Bruno Bord
@@ -17,6 +17,11 @@ Sean Dunstan
 Terence Leong
 Robert Wiesehan
 Timo L
+
+Purpose
+========
+I describe this as an 
+
 
 License and Stuff
 =================
