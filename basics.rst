@@ -32,6 +32,8 @@ Resolution
 Reading the Dice
 ----------------
 
-The process of reading the dice is pretty straightforward, just tally them up.
+The process of reading the dice is pretty straightforward, just tally them up. For example:
 
  .. image:: assets/sampleroll.png
+
+ 

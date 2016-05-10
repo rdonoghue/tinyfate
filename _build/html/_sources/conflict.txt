@@ -44,7 +44,7 @@ If a character is in the scene, then all the character’s aspects are considere
 
 Sample Scene
 ------------
-
+.. image:: assets/samplescene.png
 
 The GM paid 2 fate points to frame this scene. The Swanky and Noisy aspects on the party are fairly neutral. If the character Piper Grace were on the invite list, Locked Down Tight would probably be neutral too, but, since she’s not, that is definitely a detrimental aspect, so the GM paid a fate point for it. The GM paid an additional fate point to add the Security Goons.
 Describe Action and Determine Difficulty
