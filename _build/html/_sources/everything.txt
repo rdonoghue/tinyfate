@@ -1,0 +1,279 @@
+Introduction
+************
+
+TinyFate is a very small version of the Fate roleplaying game. Find out more at www.faterpg.com. Familiarity with other RPGs will be necessary if you intend to run the game, but, if you just wish to play, then all the rules you need are here.
+
+Draft version 0.4 posted TBD by Rob Donoghue
+
+For the Fate Nerds
+==================
+If you’re new to Fate, I’d suggest skipping ahead to the next section. If you’re familiar with Fate in any of its many forms, this may seem like a weird document.  It’s not merely a minimalist presentation of Fate, rather it’s an attempt to talk about the game a little bit differently. Most noticeable, I’m trying to make the language a little bit closer to boardgame instructions, focusing on procedure. To that end, I avoid Fate terminology in a few places where you might expect it. I do not yet know if this is a good or bad thing, but I look forward to finding out.
+
+
+Getting Started
+===============
+A TinyFate game should have three to five people, one of whom will be the Game Master (or GM) and the rest of which will be players. Play will be around a single table, where both the GM and the players can see everything in play. If your group wants to play online or with more or fewer players, then feel free, but the default assumption is three to five, around a table.
+Supplies
+The game will need the following supplies:
+* A pencil for each person, and at least one dark marker or pen
+* A stack of index cards (and something to keep them in)
+* One set of four Fate dice per person
+* A small container holding ~50  tokens, like poker chips or glass beads (Nothing edible!). This is colloquially referred to as “The Bowl.”
+Most of these items can be found anywhere, but the dice will probably require a trip to a game store or a visit to http://www.evilhat.com/home/fate-dice/.
+
+Creating Your Game
+******************
+TinyFate doesn't have a fixed setting or subject matter. Each time you sit down to play it's a different game. As such, it’s important that everyone is on the same page about what your game is about, to minimize confusion.  Are you playing a game of cowpunchers in an demon-haunted American West that never was? Doughty adventurers seeking treasure with sword and spell?  Secret agents with minor super powers at the height of the cold war?  It’s up to you!  This idea, the thing that makes it your game, is called the premise, and it includes things like setting, genre and tone.
+
+Before anything else, everyone at the table should agree on the premise.   Often, the premise has already been agreed on before people even come to the table, such as when the GM proposes that she is running a game based off a TV show everyone likes.  Sometimes the table comes up with the premise together, brainstorming ideas and tweaking them until they find something that everyone is happy with.  However you come to the premise, hopefully everyone is excited about it.
+
+Creating Characters
+===================
+Every player should grab an index card. On one side, write down your character’s name and four aspects that describe your character (more on those in a minute). Then, flip the card over, and either write a description or draw a picture (or both!) of your character. In your description or drawing, try to include an element that reflects each aspect.
+
+If you get to the end of the process, and you’re just not happy with the character you came up with, there’s no shame in ripping it up and trying again.
+
+Sometimes this process may be streamlined by the GM coming to the table with pre-created characters, especially if players are new to Fate or time is constrained.
+What is an Aspect?
+An aspect is a short, descriptive word or phrase. Examples might be Strong, Disciple of the Ephemeral Blade, or I Never Leave a Friend Behind. You can see many examples at http://evilhat.wikidot.com/aspect-examples if you like.
+An aspect is more than just a description - an aspect must be true and interesting.
+
+How is an Aspect True?
+----------------------
+An aspect must be true. If an aspect is not true, then there is no point in mentioning it. But this is also a reminder to think about what the aspect is saying. A very poetic aspect like The Wind Through the Leaves may sound great, but its meaning is unclear, so it is hard to say whether it is true or not.
+
+Not everything that is true is appropriate. In a game of hard boiled spies, Master Wizard is a mismatch, just as Hardened Veteran is not well suited to a game of companionship and magical equines.  Sometimes an aspect suggests something about the setting that may need discussion - Daughter of the Devil might be a great aspect, but if the discussion of the game has not yet mentioned anything devilish, then this is a call to get everyone back on the same page.
+
+If an aspect is unclear or troublesome, it is the responsibility of everyone at the table to talk about it until the issue is resolved.
+
+How is an Aspect Interesting?
+-----------------------------
+Interesting is the biggest gateway to making an aspect. Many things may be true about a character (e.g., left handed, blonde, speaks a smattering of high school French) but to be aspects they must say something interesting about the character as well.
+Interesting may seem more challenging, because you may worry an aspect is not interesting enough. That is not what it means. In this case, interesting means interesting to the person writing it down, and they are free to decide how they find it interesting. Maybe they like the idea. Maybe it’s something you just want to do a lot. Seemingly simple aspects like Strong, Thief, or Shy are interesting, if they are interesting to the player.
+Remember, They’re Your Aspects
+While everyone is responsible for talking about and understanding the truth of an aspect, interesting is no one else’s business but yours. If someone else thinks your aspect would be more interesting in some other way, then they are welcome to use their version of the aspect on their character.
+Aspects are a very important part of play - not only are they an essential part of the characters, they are also an important part of the world. More on that in a bit.
+
+Picking Your Aspects
+====================
+If you’re looking for ideas for your four aspects, then consider these:
+Pick an aspect that sums up your character (e.g. Dashing Musketeer, Sophisticated Superspy, or Master of the Arcane Arts)
+Pick an aspect that reflects some trouble the character has (e.g. Sucker for a Pretty Face, Hunted by KABAL, or Demonic Bargain)
+Pick an aspect that reflects the character’s role or relationships within the group (e.g. Diplomat, Fast Talker, or Wants the Paladin’s Respect)
+Go nuts for the last one.
+
+Before You Begin
+================
+“The Bowl” is the name for the collection of fate point tokens available in the game.  It need not be a literal bowl, just something to keep the tokens easily at hand without getting mixed up with individual reserves.  This supply of fate points is theoretically bottomless, but practically speaking, 50 should be more than enough.
+At the start of play, each player takes three tokens from the bowl. The GM takes the same total number of tokens (e.g. with three players and a GM, the GM takes nine tokens). After this, the person who is hosting the game (if any) takes a bonus token. These are fate points, and they will change hands throughout the game.
+Also, put a blank index card next to your character. This is your character’s status card, and we will discuss it further in a moment.
+
+Sample Character
+================
+
+Starting Play
+*************
+Once play begins, the GM will describe the situation the characters are in. This may include some background information the characters would know, a physical description of the environment, or other details about what is going on. If relevant, the GM may sketch details of the environment on paper or a whiteboard, or she may use miniatures or placeholders to illustrate the situation. Players may ask questions and describe how their characters act and respond to the circumstances. How long this takes will depend on the situation, and the GM will use her best judgement to draw events to their logical conclusion.
+
+Implicit and Explicit Scenes
+============================
+When the GM describes a situation and the players describe what they do, that is a scene, but that is a very flexible idea.  Sometimes a scene is something very strictly defined, with an start, middle and end.  Sometimes it’s just a loose sketch for play to occur within.
+
+In an explicit scene, things are described in some detail, and the aspects in play on the scene are explicitly articulated. An implicit scene relies on everyone’s understanding of what’s going on, and allows for a lot of leeway in interpretation and improvisation.
+
+Implicit scenes are used when the location is either changing frequently, or is mostly providing color. Explicit scenes can be thought of as sets in a movie - they’re places where a lot of stuff is going to happen. The distinction can be fluid - if the characters are having a conversation on the dining car of a train, that is probably an implicit scene.  But if the waiters pull out submachine guns and a firefight breaks out, then it will probably transition to an explicit scene.
+
+Scene Composition
+=================
+Just as with characters, the building blocks of a scene are aspects. They are the true and interesting things about the scene, and as with characters, they are simple but powerful.  There is no need to lay out every detail of a scene, only the ones that really matter.  It is expected that the GM and players will colorfully extrapolate details from the general idea.
+
+For example, if a scene is taking place in a dark warehouse, then it probably has the aspects Dark  and Warehouse.  Everyone knows what dark means, and warehouse probably suggests that there are rows of boxes, maybe some scaffolding overhead.  You can explore the details as you go.
+
+In an explicit scene, the GM takes the time to write down all of these aspects, and there are some rules related to what it may cost her to add certain things.  In an implicit scene, they go without saying - the aspects will come up if they seem relevant.
+
+The aspects on a scene matter a great deal because they help determine how hard or easy it is to do things.  Hitting a target might not be hard on its own, but if it’s Dark and Foggy  then it’s probably going to be harder.
+
+Conflicts
+=========
+Eventually, a situation will arise where the logical outcome is less obvious, either because it is unwelcome (e.g. the character gets hurt) or uncertain (e.g. can the characters sneak past the guard?). This is a conflict, and it needs to be resolved.
+
+Resolution
+----------
+Whether the scene is explicit or implicit, the general shape of resolution is the same.
+
+First, the player describes the action that inspires the conflict. This description has an outcome the player is trying to achieve, like fast-talking a guard or shooting a zombie.
+
+Next, the GM describes the difficulties facing the character - each difficulty maps to an aspect in play (that is, anywhere in the scene).  In an explicit scene, these aspects will be written down on cards on the table for everyone to see. In an implicit scene, the GM extrapolates them from the situation.
+
+
+
+Frame the Scene
+---------------
+At the outset of the conflict, the GM has the option to add some aspects to the scene, by writing the aspects down on cards and putting them in the middle of the table.
+
+Each card represents a distinct thing, like a character or a piece of scenery, and, as such, cards may have multiple aspects on them. Adding an aspect to the scene means either adding a new card or writing down an aspect on an existing card.  Removing an aspect from the scene means crossing it out (and removing the card entirely, if appropriate).
+
+
+
+It can be easiest to start with a single blank card and add two or three “environmental” aspects to it to start. You could add a card for each one if you like, but however you approach it, the way you describe a scene usually suggests the framing aspects.  Dark and Warehouse  suggests a very different scene than High Society Party and Swanky Penthouse.
+
+
+Adding Aspects
+--------------
+The GM has a lot of leeway in adding aspects to a scene, but there are rules the GM must follow:
+If the aspect is detrimental to the characters (e.g. an environmental danger, an aspect on an enemy, or on a character), then the GM must pay one fate point for each detrimental aspect. However, the first aspect on a scene is free.
+If the aspect is beneficial to the characters (e.g. an ally or obvious advantage), the GM may take one fate point for each beneficial aspect.
+If the aspect is neither clearly beneficial nor detrimental (e.g. descriptors on the scene, like Thick Forest or Crowded Market) then the GM may place those for free.
+As a general rule of thumb, the number of cards laid down is usually a signifier of how significant the scene is.  If a scene has more than 4 cards in play, it’s probably a pretty big deal.
+
+Characters and The Scene
+------------------------
+If a character is in the scene, then all the character’s aspects are considered in the scene as well, meaning they can be invoked by anyone involved in the scene. If new aspects get put on the character (for good or ill), then the aspects should be written on the character’s status card, not on the character sheet itself.
+
+
+
+
+
+
+
+
+Sample Scene
+------------
+
+
+The GM paid 2 fate points to frame this scene. The Swanky and Noisy aspects on the party are fairly neutral. If the character Piper Grace were on the invite list, Locked Down Tight would probably be neutral too, but, since she’s not, that is definitely a detrimental aspect, so the GM paid a fate point for it. The GM paid an additional fate point to add the Security Goons.
+Describe Action and Determine Difficulty
+Once the scene is framed, one of the players will describe the action their character takes.
+
+The GM will then determine the difficulty of that action, based on the aspects in play. The difficulty starts at 0, and each aspect that clearly makes the task more difficult increases the difficulty by +2. As the GM describes the situation, she should include those difficulties as she frames the scene.
+
+Example: In this case, Piper Grace is trying to bluff her way into the party. Locked Down Tight and Security Goons “both seem applicable, so the GM declares the difficulty is +4.
+Choose an Aspect
+The player is about to roll dice, so they start by invoking an aspect. This can be any aspect on the table that they think would help them. If there is a beneficial aspect, then invoking it grants a +2 to the character’s roll.
+
+This first invocation costs no fate points. Each subsequent invocation costs 1 fate point.
+
+Example: To bluff her way in, Piper’s Charming aspect seems obviously applicable, so she invokes that for free. That means she will roll at a +2, but the difficulty is 4, which is still difficult. As a Daughter of Venus, she can be very distracting, so as long as she’s willing to be a little flirty she could spend a fate point for another +2 to her roll. However, she wants to see how the scene goes before she spends anything more.
+
+Rolling the Dice
+================
+Fate dice have six sides. Two of them are marked with a +, two with a -, and two are blank. When you roll the the dice, you add them up, with the +’s equalling +1, and the -’s equalling –1. So, for example: + + -  = +1. Add the dice to the bonus from all invoked aspects and compare it to the difficulty. If the total equals or exceed the difficulty, then it is a success. If not, then it is a failure. But it’s not over yet!
+Dice Example
+
+Making Adjustments
+------------------
+After the dice have rolled, both the player and the GM have the option of altering the situation. The player may spend another fate point and describe how an aspect on the table or the character card helps him out. The GM may reveal new aspects, adding them to the scene, or declare borderline aspects to be problems. In either case, this increases the difficulty, but requires that she spend a fate point (giving it to the affected player).
+
+Only after this back and forth concludes is the roll resolved as a success or a failure. Invoking detrimental and beneficial aspects can feel a bit mechanical at first, but with practice it should adopt the cadence of a conversation.
+
+Example: Piper’s player describes her approaching the guard at the door and chattering on about people in the party and how foolish she feels for having stepped out without her invitation, and can’t the guard be nice about it? The GM calls for the roll and Piper rolls + - + 0,(+1) with her invoked Charming aspect adding +2, bringing her total to +3, still one short of the target. The GM describes that she seems to be somewhere with the door guard (she had rolled well enough that she’d have gotten past if it was just one obstacle) but he abruptly draws himself upright and looks stern as one of the security officers come by. Piper’s player now has the choice of spending a fate point using another aspect (perhaps Daughter of Venus, to flirt the guard back to a relaxed state) to succeed, or seeing what the GM does with a failure.
+
+Summary of a Conflict
+=====================
+Player describes action
+GM describes difficulty and assigns a value, 2 points per opposing aspect
+Player invokes an aspect for free (if possible) and rolls with a +2 for the invocation.
+Optionally: Player elaborates on the description of their action and paysspends fate points to the bowl to invoke additional aspects, adding +2 to their result for each invocation.
+Optionally: The GM elaborates on the scene, introducing new aspects or declaring previously benign aspect to be problems, increasing difficulty by 2. Each such introduction or declaration requires the GM give the opposing player one fate point.
+If the player matches or exceeds the difficulty, they succeed. If not, they fail.
+
+Success
+-------
+If the player succeeds, they may do one of the following:
+
+* Add an aspect to the scene
+* Remove an aspect from the scene. If that’s the only aspect on a card, go ahead and remove the card.
+* Resolve the scene
+
+Resolving the scene ends it with a particular outcome, but requires the agreement of everyone at the table. When the player resolves the scene, he describes the outcome, though the GM may ask him to restate things if he deviates too far from play.
+
+Failure
+-------
+
+If the player fails, then the GM may do one of the following:
+
+* Add an aspect to the scene
+* Remove an aspect from the scene
+* Resolve the scene
+* Offer a bargain
+
+The first three options are identical to the player’s options. Offering a bargain is a special way to resolve the scene - the GM may offer the players an outcome they like (such as a resolution on their terms) but with a price. The price is either explicit (“You can make it in time, but you’ll have to leave your gear behind”) or implicit (in which case the GM gets to take a fate point from the bowl).
+
+Continuing Play
+===============
+If the scene is not resolved, then it has been changed in some way (for good or ill), and the players may return to describing actions and determining difficulty.
+If the scene is resolved, then it’s time for clean up.
+
+Clean Up
+========
+The GM gathers up all aspects on the scene except those on the character’s status cards. Anything ephemeral should be discarded, but aspects which might be relevant if the situation comes up again should be set aside and saved. If they come up again (such as a fight in the same location, or an encounter with the same supporting character) then the GM adds them to that scene.
+Players also remove any aspects on their status card which would go away with the scene change (erase or cross them out), but others may linger until the situation explicitly changes them (such as medical care to remove a wound).
+
+The Next Scene
+==============
+Once the scene is resolved, the GM goes back to describing the situation, with players describing their actions and the GM describing reactions. Eventually there will be another conflict, and the process repeats.
+
+Speeding Up Simple Conflicts
+============================
+Sometimes the resolution will be a simple answer to a question. If the uncertainty was whether or not the character could do a thing, then the roll resolves it, simple as that. Setup and cleanup are skipped, and the GM simply derives difficulty from the scene as presented, and the only possible outcome of the roll is resolution or Offering a bargain. If anyone wants to spend points to change the situation, that may be cause to do a full scene.
+
+Outside of Conflict
+*********************************
+Aspects may also come up outside of conflicts - players and the GM may refer to them when describing what happens. For example, a character with the “Army Brat” aspect might know things about military lifestyle that other characters don’t. This sort of use of aspects should be fairly common.
+In a borderline case, a player may spend a fate point (to the bowl) to assert that their aspect is usefully applicable, and the GM should roll with that.
+
+Making an Offer Outside of a Conflict
+=====================================
+If a situation comes up where a player’s aspect might cause trouble, the GM may offer the player a fate point from the bowl. If they accept, then the aspect is the source of trouble. If they refuse, then the GM keeps moving, and goes to some other sort of trouble.
+
+Ending the Game
+===============
+At the end of the game, players have the option of changing one of their aspects to reflect events in play. Game end will also initiate another round of cleanup, where any aspects that shouldn’t persist into the next game are removed (including from the status card).
+
+Advanced Rules
+**************
+Advanced rules are optional rules for use with TinyFate. They may be freely used or ignored, but everyone in the game should be in agreement about their status.
+
+Advanced Rules: Big Effects
+===========================
+The GM may determine that certain outcomes may require one or more aspects be in place first. For example, no roll is going to let a character punch down a stone wall, so the GM may require some number of aspects (usually 1–3) to “set up” the final effect.
+This rule can also be applied to killing targets (or players). It may require some number of injuries or inconveniences before “dead” is a viable outcome.
+
+Advanced Rules: GM Veto and Player Offers
+=========================================
+By default, the GM is the one responsible for calling out when things have gone off the rails, like a player declaring that their successful lockpick roll means they’ve punched out the dragon. This is a responsibility, not an authority. In fact, everyone at the table has the same right to object when things drift too far from reasonable.
+Once players are comfortable with that responsibility, they should also consider that they can Offer a Bargain to one another when the situation calls for it.
+
+Advanced Rules: Locations
+=========================
+If a scene takes place somewhere large or complicated, then the GM can lay down aspects to reflect different zones of the location (she can even lay them down in a simple map). Which location a character is in provides useful information about what they can do, and can be part of the difficulty. For example, if you try to attack someone with your sword and they’re in another location, then that location probably gets folded into the difficulty (to reflect the distance you need to close).
+
+Advance Rules: Offering a Question
+==================================
+At any point, the GM may ask a player a question about the game, specifically a question of something beyond the immediate scope of their actions. This may range from some bit of backstory to a theory about what an NPC is up to. The player may defer, but if they answer, the GM will give them one fate point from the bowl. What the GM does with the answer is up to the GM, though it most often will be incorporated into the game as presented.
+
+Advice to GMs
+*************
+Offer a bargain whenever possible. It gets you fate points, and also pushes the game in fun directions.
+Failure should never stop play. Failure should merely push play in a new direction.
+Do not make players roll for anything unless you have a firm idea of how both success and failure might move the game forward.
+Be prepared for players to go in unexpected directions with success. Roll with it.
+
+About this game
+***************
+The original version of TinyFate was written to my blog at walkingmind.evilhat.com, and is expanded here. The inspiration to write it up more fully was born out out a fantastic post at the Step into RPGs blog (https://stepintorpgs.wordpress.com).
+
+This game was developed largely in the open, on my blog (http://walkingmind.evilhat.com) and on google docs, and has been vastly improved by feedback from  many people, including:
+Stephen Morphlew
+Michael McCully
+Bruno Bord
+Jim Dagg
+Kirby Gehman
+Dan Kaiser
+Jonathan Hobbs
+Michael McCully
+Nicolas Gilardi
+Sean Dunstan
+Terence Leong
+Robert Wiesehan
+Timo L
