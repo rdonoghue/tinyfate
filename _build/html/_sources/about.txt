@@ -21,3 +21,6 @@ Timo L
 License and Stuff
 =================
 This is still a work in progress, but the expectation is that this will be released under Fate Compatible licenses once it's complete. In the interim, I have been using it to experiment with various publishing tools and techniques, most currently building with sphinx via github (repo at https://github.com/rdonoghue/tinyfate)
+
+
+0.4.02

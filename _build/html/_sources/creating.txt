@@ -14,7 +14,7 @@ If you get to the end of the process, and you’re just not happy with the chara
 Sometimes this process may be streamlined by the GM coming to the table with pre-created characters, especially if players are new to Fate or time is constrained.
 What is an Aspect?
 An aspect is a short, descriptive word or phrase. Examples might be Strong, Disciple of the Ephemeral Blade, or I Never Leave a Friend Behind. You can see many examples at http://evilhat.wikidot.com/aspect-examples if you like.
-An aspect is more than just a description - an aspect must be true and interesting.
+An aspect is more than just a description - an aspect must be **true** and **interesting**.
 
 How is an Aspect True?
 ----------------------
@@ -48,3 +48,5 @@ Also, put a blank index card next to your character. This is your character’s 
 
 Sample Character
 ================
+
+.. image:: assets/charsheet.png
