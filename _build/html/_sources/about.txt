@@ -20,7 +20,7 @@ Timo L
 
 Purpose
 ========
-I describe this as an 
+I describe this as an experiment for a number of reasons. The largest is that the very first draft of TinyFate fit on a pair of index cards, and that was genuinely all I felt I needed to make it work. This version is much longer because it's been an exercise in unpacking **all** of my assumptions. Turns out there are a lot of them.  It also has been an opportunity to try a variety of publishing technologies. This iteration used sphinx (http://docs.writethedocs.org/tools/sphinx/), which I find pretty neat, and which I think may be useful for some future collaboration.  
 
 
 License and Stuff
