@@ -12,7 +12,3 @@ The game will need the following supplies:
 * A small container holding ~50  tokens, like poker chips or glass beads (Nothing edible!). This is colloquially referred to as “The Bowl.”.
 
 Most of these items can be found anywhere, but the dice will probably require a trip to a game store or a visit to http://www.evilhat.com/home/fate-dice/.
-
-Header Here
-===========
-What happens if I do another top level header here?
