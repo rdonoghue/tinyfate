@@ -5,6 +5,8 @@
 
 Welcome to TinyFate's documentation!
 ====================================
+**STILL A WORK IN PROGRESS**
+
 
 Contents:
 
