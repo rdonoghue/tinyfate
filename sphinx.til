@@ -5,3 +5,11 @@
 # Inside docs/_build/html directory.
 python -m SimpleHTTPServer
 Then open your browser to http://localhost:8000.
+
+
+To insert Raw HTML
+.. raw:: html
+
+    <embed>
+        ...
+    </embed>
