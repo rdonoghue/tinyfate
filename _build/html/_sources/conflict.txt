@@ -50,7 +50,7 @@ The GM paid 2 fate points to frame this scene. The Swanky and Noisy aspects on t
 Describe Action and Determine Difficulty
 Once the scene is framed, one of the players will describe the action their character takes.
 
-The GM will then determine the difficulty of that action, based on the aspects in play. The difficulty starts at 0, and each aspect that clearly makes the task more difficult increases the difficulty by +2. As the GM describes the situation, she should include those difficulties as she frames the scene.
+The GM will then determine the difficulty of that action, based on the aspects in play. The difficulty starts at 0, and each aspect that clearly makes the task more difficult increases the difficulty by +2. As the GM describes the situation, she should include those difficulties as she frames the scene.  .
 
 Example: In this case, Piper Grace is trying to bluff her way into the party. Locked Down Tight and Security Goons “both seem applicable, so the GM declares the difficulty is +4.
 Choose an Aspect
@@ -60,49 +60,7 @@ This first invocation costs no fate points. Each subsequent invocation costs 1 f
 
 Example: To bluff her way in, Piper’s Charming aspect seems obviously applicable, so she invokes that for free. That means she will roll at a +2, but the difficulty is 4, which is still difficult. As a Daughter of Venus, she can be very distracting, so as long as she’s willing to be a little flirty she could spend a fate point for another +2 to her roll. However, she wants to see how the scene goes before she spends anything more.
 
-Rolling the Dice
-================
-Fate dice have six sides. Two of them are marked with a +, two with a -, and two are blank. When you roll the the dice, you add them up, with the +’s equalling +1, and the -’s equalling –1. So, for example: + + -  = +1. Add the dice to the bonus from all invoked aspects and compare it to the difficulty. If the total equals or exceed the difficulty, then it is a success. If not, then it is a failure. But it’s not over yet!
-Dice Example
 
-Making Adjustments
-------------------
-After the dice have rolled, both the player and the GM have the option of altering the situation. The player may spend another fate point and describe how an aspect on the table or the character card helps him out. The GM may reveal new aspects, adding them to the scene, or declare borderline aspects to be problems. In either case, this increases the difficulty, but requires that she spend a fate point (giving it to the affected player).
-
-Only after this back and forth concludes is the roll resolved as a success or a failure. Invoking detrimental and beneficial aspects can feel a bit mechanical at first, but with practice it should adopt the cadence of a conversation.
-
-Example: Piper’s player describes her approaching the guard at the door and chattering on about people in the party and how foolish she feels for having stepped out without her invitation, and can’t the guard be nice about it? The GM calls for the roll and Piper rolls + - + 0,(+1) with her invoked Charming aspect adding +2, bringing her total to +3, still one short of the target. The GM describes that she seems to be somewhere with the door guard (she had rolled well enough that she’d have gotten past if it was just one obstacle) but he abruptly draws himself upright and looks stern as one of the security officers come by. Piper’s player now has the choice of spending a fate point using another aspect (perhaps Daughter of Venus, to flirt the guard back to a relaxed state) to succeed, or seeing what the GM does with a failure.
-
-Summary of a Conflict
-=====================
-Player describes action
-GM describes difficulty and assigns a value, 2 points per opposing aspect
-Player invokes an aspect for free (if possible) and rolls with a +2 for the invocation.
-Optionally: Player elaborates on the description of their action and paysspends fate points to the bowl to invoke additional aspects, adding +2 to their result for each invocation.
-Optionally: The GM elaborates on the scene, introducing new aspects or declaring previously benign aspect to be problems, increasing difficulty by 2. Each such introduction or declaration requires the GM give the opposing player one fate point.
-If the player matches or exceeds the difficulty, they succeed. If not, they fail.
-
-Success
--------
-If the player succeeds, they may do one of the following:
-
-* Add an aspect to the scene
-* Remove an aspect from the scene. If that’s the only aspect on a card, go ahead and remove the card.
-* Resolve the scene
-
-Resolving the scene ends it with a particular outcome, but requires the agreement of everyone at the table. When the player resolves the scene, he describes the outcome, though the GM may ask him to restate things if he deviates too far from play.
-
-Failure
--------
-
-If the player fails, then the GM may do one of the following:
-
-* Add an aspect to the scene
-* Remove an aspect from the scene
-* Resolve the scene
-* Offer a bargain
-
-The first three options are identical to the player’s options. Offering a bargain is a special way to resolve the scene - the GM may offer the players an outcome they like (such as a resolution on their terms) but with a price. The price is either explicit (“You can make it in time, but you’ll have to leave your gear behind”) or implicit (in which case the GM gets to take a fate point from the bowl).
 
 Continuing Play
 ===============
