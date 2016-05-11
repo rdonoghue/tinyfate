@@ -63,9 +63,9 @@ The resolution process has a few simple steps:
 1. Establish Action
 2. Establish Difficulty
 3. Change the Situation
-3. Roll Dice
-4. Scramble
-5. Determine Resolution.
+4. Roll Dice
+5. Scramble
+6. Determine Resolution.
 
 
 Establish Action
@@ -150,9 +150,3 @@ If not, then the scene will probably continue, but it will be changed in some wa
 * Offer a bargain
 
 The first two options are identical to the player’s options. Offering a bargain is a special way to resolve the scene - the GM may offer the players an outcome they like (such as a resolution on their terms) but with a price. The price is either explicit (“You can make it in time, but you’ll have to leave your gear behind”) or implicit (in which case the GM gets to take a fate point from the bowl).
-
-
-Reading the Dice
-----------------
-
-The process of reading the dice is pretty straightforward, just tally them up. For example:
