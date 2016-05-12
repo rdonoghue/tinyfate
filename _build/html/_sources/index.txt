@@ -8,6 +8,8 @@ Welcome to TinyFate's documentation!
 **STILL A WORK IN PROGRESS**
 
 
+Download `the epub version <_images/TinyFate.epub>`_.
+
 Contents:
 
 .. toctree::
