@@ -1,2 +1,2 @@
-Going to try to get the tinyfate text into sphinx.:wq
+Going to try to get the tinyfate text into sphinx.
  
