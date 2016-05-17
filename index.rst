@@ -15,15 +15,15 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   intro
-   gettingstarted
-   creating
-   basics
-   conflict
-   nonconflict
-   advancedrules
-   advice
-   about
+   1-intro
+   2-gettingstarted
+   3-creating
+   4-basics
+   5-conflict
+   6-nonconflict
+   7-advancedrules
+   8-advice
+   9-about
 
 
 
