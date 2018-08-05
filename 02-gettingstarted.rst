@@ -10,6 +10,6 @@ The game will need the following supplies:
 * A pencil for each person, and at least one dark marker or pen
 * A stack of index cards (and something to keep them in)
 * One set of four Fate dice per person
-* A small container holding ~50  tokens, like poker chips or glass beads (Nothing edible!). This is colloquially referred to as “The Bowl.”.
+* A small container holding about 50  tokens, like poker chips or glass beads (Nothing edible!). This is colloquially referred to as “The Bowl.”.
 
 Most of these items can be found anywhere, but the dice will probably require a trip to a game store or a visit to http://www.evilhat.com/home/fate-dice/.

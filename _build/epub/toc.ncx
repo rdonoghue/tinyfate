@@ -9,208 +9,208 @@
   <docTitle>
     <text>TinyFate</text>
   </docTitle>
-  <navMap>
+  <navMap>    
     <navPoint id="navPoint1" playOrder="1">
       <navLabel>
-        <text>Welcome to TinyFate&#39;s documentation!</text>
+        <text>Welcome to TinyFate’s documentation!</text>
       </navLabel>
-      <content src="index.html" />
+      <content src="index.xhtml" />  
     </navPoint>
     <navPoint id="navPoint2" playOrder="2">
       <navLabel>
         <text>Introduction</text>
       </navLabel>
-      <content src="intro.html" />
+      <content src="intro.xhtml" />  
       <navPoint id="navPoint3" playOrder="2">
         <navLabel>
           <text>Introduction</text>
         </navLabel>
-        <content src="intro.html" />
+        <content src="intro.xhtml" />  
       </navPoint>
       <navPoint id="navPoint4" playOrder="3">
         <navLabel>
           <text>For the Fate Nerds</text>
         </navLabel>
-        <content src="intro.html#for-the-fate-nerds" />
+        <content src="intro.xhtml#for-the-fate-nerds" />  
       </navPoint>
     </navPoint>
     <navPoint id="navPoint5" playOrder="4">
       <navLabel>
         <text>Getting Started</text>
       </navLabel>
-      <content src="gettingstarted.html" />
+      <content src="gettingstarted.xhtml" />  
       <navPoint id="navPoint6" playOrder="4">
         <navLabel>
           <text>Getting Started</text>
         </navLabel>
-        <content src="gettingstarted.html" />
+        <content src="gettingstarted.xhtml" />  
       </navPoint>
       <navPoint id="navPoint7" playOrder="5">
         <navLabel>
           <text>Supplies</text>
         </navLabel>
-        <content src="gettingstarted.html#supplies" />
+        <content src="gettingstarted.xhtml#supplies" />  
       </navPoint>
     </navPoint>
     <navPoint id="navPoint8" playOrder="6">
       <navLabel>
         <text>Creating Your Game</text>
       </navLabel>
-      <content src="creating.html" />
+      <content src="creating.xhtml" />  
       <navPoint id="navPoint9" playOrder="6">
         <navLabel>
           <text>Creating Your Game</text>
         </navLabel>
-        <content src="creating.html" />
+        <content src="creating.xhtml" />  
       </navPoint>
       <navPoint id="navPoint10" playOrder="7">
         <navLabel>
           <text>Creating Characters</text>
         </navLabel>
-        <content src="creating.html#creating-characters" />
+        <content src="creating.xhtml#creating-characters" />  
         <navPoint id="navPoint11" playOrder="7">
           <navLabel>
             <text>Creating Characters</text>
           </navLabel>
-          <content src="creating.html#creating-characters" />
+          <content src="creating.xhtml#creating-characters" />  
         </navPoint>
         <navPoint id="navPoint12" playOrder="8">
           <navLabel>
             <text>How is an Aspect True?</text>
           </navLabel>
-          <content src="creating.html#how-is-an-aspect-true" />
+          <content src="creating.xhtml#how-is-an-aspect-true" />  
         </navPoint>
         <navPoint id="navPoint13" playOrder="9">
           <navLabel>
             <text>How is an Aspect Interesting?</text>
           </navLabel>
-          <content src="creating.html#how-is-an-aspect-interesting" />
+          <content src="creating.xhtml#how-is-an-aspect-interesting" />  
         </navPoint>
       </navPoint>
       <navPoint id="navPoint14" playOrder="10">
         <navLabel>
           <text>Picking Your Aspects</text>
         </navLabel>
-        <content src="creating.html#picking-your-aspects" />
+        <content src="creating.xhtml#picking-your-aspects" />  
       </navPoint>
       <navPoint id="navPoint15" playOrder="11">
         <navLabel>
           <text>Before You Begin</text>
         </navLabel>
-        <content src="creating.html#before-you-begin" />
+        <content src="creating.xhtml#before-you-begin" />  
       </navPoint>
       <navPoint id="navPoint16" playOrder="12">
         <navLabel>
           <text>Sample Character</text>
         </navLabel>
-        <content src="creating.html#sample-character" />
+        <content src="creating.xhtml#sample-character" />  
       </navPoint>
     </navPoint>
     <navPoint id="navPoint17" playOrder="13">
       <navLabel>
         <text>Starting Play</text>
       </navLabel>
-      <content src="basics.html" />
+      <content src="basics.xhtml" />  
       <navPoint id="navPoint18" playOrder="13">
         <navLabel>
           <text>Starting Play</text>
         </navLabel>
-        <content src="basics.html" />
+        <content src="basics.xhtml" />  
       </navPoint>
       <navPoint id="navPoint19" playOrder="14">
         <navLabel>
           <text>Scenes</text>
         </navLabel>
-        <content src="basics.html#scenes" />
+        <content src="basics.xhtml#scenes" />  
         <navPoint id="navPoint20" playOrder="14">
           <navLabel>
             <text>Scenes</text>
           </navLabel>
-          <content src="basics.html#scenes" />
+          <content src="basics.xhtml#scenes" />  
         </navPoint>
         <navPoint id="navPoint21" playOrder="15">
           <navLabel>
-            <text>What&#39;s in a Scene?</text>
+            <text>What’s in a Scene?</text>
           </navLabel>
-          <content src="basics.html#what-s-in-a-scene" />
+          <content src="basics.xhtml#what-s-in-a-scene" />  
         </navPoint>
         <navPoint id="navPoint22" playOrder="16">
           <navLabel>
             <text>Implicit  and Explicit Scenes</text>
           </navLabel>
-          <content src="basics.html#implicit-and-explicit-scenes" />
+          <content src="basics.xhtml#implicit-and-explicit-scenes" />  
         </navPoint>
         <navPoint id="navPoint23" playOrder="17">
           <navLabel>
             <text>Scene Composition</text>
           </navLabel>
-          <content src="basics.html#scene-composition" />
+          <content src="basics.xhtml#scene-composition" />  
         </navPoint>
       </navPoint>
       <navPoint id="navPoint24" playOrder="18">
         <navLabel>
           <text>Uncertainty and Action</text>
         </navLabel>
-        <content src="basics.html#uncertainty-and-action" />
+        <content src="basics.xhtml#uncertainty-and-action" />  
       </navPoint>
       <navPoint id="navPoint25" playOrder="19">
         <navLabel>
           <text>Resolution</text>
         </navLabel>
-        <content src="basics.html#resolution" />
+        <content src="basics.xhtml#resolution" />  
         <navPoint id="navPoint26" playOrder="19">
           <navLabel>
             <text>Resolution</text>
           </navLabel>
-          <content src="basics.html#resolution" />
+          <content src="basics.xhtml#resolution" />  
         </navPoint>
         <navPoint id="navPoint27" playOrder="20">
           <navLabel>
             <text>Establish Action</text>
           </navLabel>
-          <content src="basics.html#establish-action" />
+          <content src="basics.xhtml#establish-action" />  
         </navPoint>
         <navPoint id="navPoint28" playOrder="21">
           <navLabel>
             <text>Establish Difficulty</text>
           </navLabel>
-          <content src="basics.html#establish-difficulty" />
+          <content src="basics.xhtml#establish-difficulty" />  
         </navPoint>
         <navPoint id="navPoint29" playOrder="22">
           <navLabel>
             <text>Making Adjustments</text>
           </navLabel>
-          <content src="basics.html#making-adjustments" />
+          <content src="basics.xhtml#making-adjustments" />  
         </navPoint>
         <navPoint id="navPoint30" playOrder="23">
           <navLabel>
             <text>Roll the Dice</text>
           </navLabel>
-          <content src="basics.html#roll-the-dice" />
+          <content src="basics.xhtml#roll-the-dice" />  
         </navPoint>
         <navPoint id="navPoint31" playOrder="24">
           <navLabel>
             <text>Scramble</text>
           </navLabel>
-          <content src="basics.html#scramble" />
+          <content src="basics.xhtml#scramble" />  
         </navPoint>
         <navPoint id="navPoint32" playOrder="25">
           <navLabel>
             <text>Hang On, Why Would I Do That?</text>
           </navLabel>
-          <content src="basics.html#hang-on-why-would-i-do-that" />
+          <content src="basics.xhtml#hang-on-why-would-i-do-that" />  
         </navPoint>
         <navPoint id="navPoint33" playOrder="26">
           <navLabel>
             <text>Success</text>
           </navLabel>
-          <content src="basics.html#success" />
+          <content src="basics.xhtml#success" />  
         </navPoint>
         <navPoint id="navPoint34" playOrder="27">
           <navLabel>
             <text>Failure</text>
           </navLabel>
-          <content src="basics.html#failure" />
+          <content src="basics.xhtml#failure" />  
         </navPoint>
       </navPoint>
     </navPoint>
@@ -218,144 +218,204 @@
       <navLabel>
         <text>Conflicts</text>
       </navLabel>
-      <content src="conflict.html" />
+      <content src="conflict.xhtml" />  
       <navPoint id="navPoint36" playOrder="28">
         <navLabel>
           <text>Conflicts</text>
         </navLabel>
-        <content src="conflict.html" />
+        <content src="conflict.xhtml" />  
       </navPoint>
       <navPoint id="navPoint37" playOrder="29">
         <navLabel>
           <text>Frame the Scene</text>
         </navLabel>
-        <content src="conflict.html#frame-the-scene" />
+        <content src="conflict.xhtml#frame-the-scene" />  
       </navPoint>
       <navPoint id="navPoint38" playOrder="30">
         <navLabel>
           <text>Adding Aspects</text>
         </navLabel>
-        <content src="conflict.html#adding-aspects" />
+        <content src="conflict.xhtml#adding-aspects" />  
       </navPoint>
       <navPoint id="navPoint39" playOrder="31">
         <navLabel>
           <text>Characters and The Scene</text>
         </navLabel>
-        <content src="conflict.html#characters-and-the-scene" />
+        <content src="conflict.xhtml#characters-and-the-scene" />  
       </navPoint>
       <navPoint id="navPoint40" playOrder="32">
         <navLabel>
           <text>Sample Scene</text>
         </navLabel>
-        <content src="conflict.html#sample-scene" />
+        <content src="conflict.xhtml#sample-scene" />  
         <navPoint id="navPoint41" playOrder="32">
           <navLabel>
             <text>Sample Scene</text>
           </navLabel>
-          <content src="conflict.html#sample-scene" />
+          <content src="conflict.xhtml#sample-scene" />  
         </navPoint>
         <navPoint id="navPoint42" playOrder="33">
           <navLabel>
-            <text>Clean Up</text>
+            <text>Rolling the Dice</text>
           </navLabel>
-          <content src="conflict.html#clean-up" />
-        </navPoint>
-        <navPoint id="navPoint43" playOrder="34">
-          <navLabel>
-            <text>The Next Scene</text>
-          </navLabel>
-          <content src="conflict.html#the-next-scene" />
+          <content src="conflict.xhtml#rolling-the-dice" />  
         </navPoint>
       </navPoint>
-    </navPoint>
-    <navPoint id="navPoint44" playOrder="35">
-      <navLabel>
-        <text>Outside of Conflict</text>
-      </navLabel>
-      <content src="nonconflict.html" />
-      <navPoint id="navPoint45" playOrder="35">
+      <navPoint id="navPoint43" playOrder="34">
         <navLabel>
-          <text>Outside of Conflict</text>
+          <text>Making Adjustments</text>
         </navLabel>
-        <content src="nonconflict.html" />
+        <content src="conflict.xhtml#making-adjustments" />  
+        <navPoint id="navPoint44" playOrder="34">
+          <navLabel>
+            <text>Making Adjustments</text>
+          </navLabel>
+          <content src="conflict.xhtml#making-adjustments" />  
+        </navPoint>
+        <navPoint id="navPoint45" playOrder="35">
+          <navLabel>
+            <text>Summary of a Conflict</text>
+          </navLabel>
+          <content src="conflict.xhtml#summary-of-a-conflict" />  
+        </navPoint>
       </navPoint>
       <navPoint id="navPoint46" playOrder="36">
         <navLabel>
-          <text>Making an Offer Outside of a Conflict</text>
+          <text>Success</text>
         </navLabel>
-        <content src="nonconflict.html#making-an-offer-outside-of-a-conflict" />
+        <content src="conflict.xhtml#success" />  
       </navPoint>
       <navPoint id="navPoint47" playOrder="37">
         <navLabel>
-          <text>Ending the Game</text>
+          <text>Failure</text>
         </navLabel>
-        <content src="nonconflict.html#ending-the-game" />
+        <content src="conflict.xhtml#failure" />  
+        <navPoint id="navPoint48" playOrder="37">
+          <navLabel>
+            <text>Failure</text>
+          </navLabel>
+          <content src="conflict.xhtml#failure" />  
+        </navPoint>
+        <navPoint id="navPoint49" playOrder="38">
+          <navLabel>
+            <text>Continuing Play</text>
+          </navLabel>
+          <content src="conflict.xhtml#continuing-play" />  
+        </navPoint>
+        <navPoint id="navPoint50" playOrder="39">
+          <navLabel>
+            <text>Clean Up</text>
+          </navLabel>
+          <content src="conflict.xhtml#clean-up" />  
+        </navPoint>
+        <navPoint id="navPoint51" playOrder="40">
+          <navLabel>
+            <text>The Next Scene</text>
+          </navLabel>
+          <content src="conflict.xhtml#the-next-scene" />  
+        </navPoint>
+        <navPoint id="navPoint52" playOrder="41">
+          <navLabel>
+            <text>Speeding Up Simple Conflicts</text>
+          </navLabel>
+          <content src="conflict.xhtml#speeding-up-simple-conflicts" />  
+        </navPoint>
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint48" playOrder="38">
+    <navPoint id="navPoint53" playOrder="42">
+      <navLabel>
+        <text>Outside of Conflict</text>
+      </navLabel>
+      <content src="nonconflict.xhtml" />  
+      <navPoint id="navPoint54" playOrder="42">
+        <navLabel>
+          <text>Outside of Conflict</text>
+        </navLabel>
+        <content src="nonconflict.xhtml" />  
+      </navPoint>
+      <navPoint id="navPoint55" playOrder="43">
+        <navLabel>
+          <text>Making an Offer Outside of a Conflict</text>
+        </navLabel>
+        <content src="nonconflict.xhtml#making-an-offer-outside-of-a-conflict" />  
+      </navPoint>
+      <navPoint id="navPoint56" playOrder="44">
+        <navLabel>
+          <text>Ending the Game</text>
+        </navLabel>
+        <content src="nonconflict.xhtml#ending-the-game" />  
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint57" playOrder="45">
       <navLabel>
         <text>Advanced Rules</text>
       </navLabel>
-      <content src="advancedrules.html" />
-      <navPoint id="navPoint49" playOrder="38">
+      <content src="advancedrules.xhtml" />  
+      <navPoint id="navPoint58" playOrder="45">
         <navLabel>
           <text>Advanced Rules</text>
         </navLabel>
-        <content src="advancedrules.html" />
+        <content src="advancedrules.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint50" playOrder="39">
+      <navPoint id="navPoint59" playOrder="46">
         <navLabel>
           <text>Advanced Rules: Big Effects</text>
         </navLabel>
-        <content src="advancedrules.html#advanced-rules-big-effects" />
+        <content src="advancedrules.xhtml#advanced-rules-big-effects" />  
       </navPoint>
-      <navPoint id="navPoint51" playOrder="40">
+      <navPoint id="navPoint60" playOrder="47">
         <navLabel>
           <text>Advanced Rules: GM Veto and Player Offers</text>
         </navLabel>
-        <content src="advancedrules.html#advanced-rules-gm-veto-and-player-offers" />
+        <content src="advancedrules.xhtml#advanced-rules-gm-veto-and-player-offers" />  
       </navPoint>
-      <navPoint id="navPoint52" playOrder="41">
+      <navPoint id="navPoint61" playOrder="48">
         <navLabel>
           <text>Advanced Rules: Locations</text>
         </navLabel>
-        <content src="advancedrules.html#advanced-rules-locations" />
+        <content src="advancedrules.xhtml#advanced-rules-locations" />  
       </navPoint>
-      <navPoint id="navPoint53" playOrder="42">
+      <navPoint id="navPoint62" playOrder="49">
         <navLabel>
           <text>Advance Rules: Offering a Question</text>
         </navLabel>
-        <content src="advancedrules.html#advance-rules-offering-a-question" />
+        <content src="advancedrules.xhtml#advance-rules-offering-a-question" />  
       </navPoint>
     </navPoint>
-    <navPoint id="navPoint54" playOrder="43">
+    <navPoint id="navPoint63" playOrder="50">
       <navLabel>
         <text>Advice to GMs</text>
       </navLabel>
-      <content src="advice.html" />
+      <content src="advice.xhtml" />  
     </navPoint>
-    <navPoint id="navPoint55" playOrder="44">
+    <navPoint id="navPoint64" playOrder="51">
       <navLabel>
         <text>About this game</text>
       </navLabel>
-      <content src="about.html" />
-      <navPoint id="navPoint56" playOrder="44">
+      <content src="about.xhtml" />  
+      <navPoint id="navPoint65" playOrder="51">
         <navLabel>
           <text>About this game</text>
         </navLabel>
-        <content src="about.html" />
+        <content src="about.xhtml" />  
       </navPoint>
-      <navPoint id="navPoint57" playOrder="45">
+      <navPoint id="navPoint66" playOrder="52">
         <navLabel>
           <text>Purpose</text>
         </navLabel>
-        <content src="about.html#purpose" />
+        <content src="about.xhtml#purpose" />  
       </navPoint>
-      <navPoint id="navPoint58" playOrder="46">
+      <navPoint id="navPoint67" playOrder="53">
         <navLabel>
           <text>License and Stuff</text>
         </navLabel>
-        <content src="about.html#license-and-stuff" />
+        <content src="about.xhtml#license-and-stuff" />  
+      </navPoint>
+      <navPoint id="navPoint68" playOrder="54">
+        <navLabel>
+          <text>Version Notes</text>
+        </navLabel>
+        <content src="about.xhtml#version-notes" />  
       </navPoint>
     </navPoint>
   </navMap>
