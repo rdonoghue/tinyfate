@@ -8,7 +8,7 @@ Welcome to TinyFate's documentation!
 **STILL A WORK IN PROGRESS**
 
 
-Download `the epub version <_images/TinyFate.epub>`_.
+Download `the epub version <TinyFate05.epub>`_.
 
 Contents:
 
