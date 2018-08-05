@@ -15,15 +15,26 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   1-intro
-   2-gettingstarted
-   3-creating
-   4-basics
-   5-conflict
-   6-nonconflict
-   7-advancedrules
-   8-advice
-   9-about
+Playing
+-------
+   01-intro
+   02-gettingstarted
+   03-creating
+   04-basics
+   05-conflict
+   06-nonconflict
+   07-advancedrules
+   08-advice
+
+Running
+-------
+   09-game
+   10-world
+   11-setting
+   12-adventure
+   13-scene
+   14-moment
+   15-about
 
 
 
