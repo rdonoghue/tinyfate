@@ -86,13 +86,13 @@ Importantly, an aspect must create an **obvious** problem.  If it only *might* b
 
 Making Adjustments
 ------------------
-At this point, if there are any other aspects that might influence the outcome, the player and GM may *invoke* those aspects by spending a fate point into the bowl and adding two to either their bonus (if a player) or the difficulty (if the GM). The only limit on what aspects can be invoked is the sensibility of everyone playing, but the apsects need to be incorporated into the description of action.   This can be done in any order, so long as there are Fate Points to spend, and ends when both sides are ready to roll.
+At this point, if there are any other aspects that might influence the outcome, the player and GM may *invoke* those aspects by spending a fate point into the bowl and adding two to either their bonus (if a player) or the difficulty (if the GM). The only limit on what aspects can be invoked is the sensibility of everyone playing, but the aspects need to be incorporated into the description of action.   This can be done in any order, so long as there are Fate Points to spend, and ends when both sides are ready to roll.
 
 Three important things to note:
 
 1. If this is an *implicit* scene, we assume a spirit of generosity - anything that has been described as part of the scene that seems interesting and meaningful can be called upon as an aspect.  In an *explicit* scene, these aspects are all written down, so there's less wiggle room.
 
-2. You can't benefit from the same aspect twice, so the aspect used in establishing action and difficulty can't be used now (excpet perhaps by the other side)
+2. You can't benefit from the same aspect twice, so the aspect used in establishing action and difficulty can't be used now (except perhaps by the other side)
 
 3. **Anyone** at the table can spend, if they can find a way that makes sense. This is easiest if the character is in the scene, but that's not mandatory.
 

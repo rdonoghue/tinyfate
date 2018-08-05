@@ -5,7 +5,9 @@ Introduction
 
 TinyFate is a very small version of the Fate roleplaying game. Find out more at www.faterpg.com. Familiarity with other RPGs will be necessary if you intend to run the game, but, if you just wish to play, then all the rules you need are here.
 
-Draft version 0.4 posted May 2016 by Rob Donoghue
+Draft version 0.5 posted August 2018 by Rob Donoghue
+
+Also available in (very basic) `epub <TinyFate05.epub>`_
 
 For the Fate Nerds
 ==================
