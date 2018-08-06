@@ -1,117 +1,100 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" version="2.0"
-      unique-identifier="unknown">
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" xml:lang="en"
+ unique-identifier="unknown"
+ prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
   <metadata xmlns:opf="http://www.idpf.org/2007/opf"
         xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:language>en</dc:language>
     <dc:title>TinyFate</dc:title>
-    <dc:creator opf:role="aut">Rob Donoghue</dc:creator>
+    <dc:description>unknown</dc:description>
+    <dc:creator>Rob Donoghue</dc:creator>
+    <dc:contributor>unknown</dc:contributor>
     <dc:publisher>Rob Donoghue</dc:publisher>
     <dc:rights>2016, Rob Donoghue</dc:rights>
-    <dc:identifier id="unknown" opf:scheme="unknown">unknown</dc:identifier>
-    <dc:date>2016-05-12</dc:date>
+    <dc:identifier id="unknown">unknown</dc:identifier>
+    <dc:date>2018-08-05T21:22:47Z</dc:date>
+    <meta property="dcterms:modified">2018-08-05T21:22:47Z</meta>
+    <meta property="ibooks:version">0.5</meta>
+    <meta property="ibooks:specified-fonts">true</meta>
+    <meta property="ibooks:binding">true</meta>
+    <meta property="ibooks:scroll-axis">vertical</meta>
   </metadata>
   <manifest>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
-    <item id="epub-0"
-          href="about.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-1"
-          href="advancedrules.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-2"
-          href="advice.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-3"
-          href="basics.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-4"
-          href="conflict.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-5"
-          href="creating.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-6"
-          href="genindex.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-7"
-          href="gettingstarted.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-8"
-          href="index.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-9"
-          href="intro.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-10"
-          href="nonconflict.html"
-          media-type="application/xhtml+xml" />
-    <item id="epub-11"
-          href="_images/charsheet.png"
-          media-type="image/png" />
-    <item id="epub-12"
-          href="_images/sampleroll.png"
-          media-type="image/png" />
-    <item id="epub-13"
-          href="_images/samplescene.png"
-          media-type="image/png" />
-    <item id="epub-14"
-          href="_static/ajax-loader.gif"
-          media-type="image/gif" />
-    <item id="epub-15"
-          href="_static/basic.css"
-          media-type="text/css" />
-    <item id="epub-16"
-          href="_static/comment-bright.png"
-          media-type="image/png" />
-    <item id="epub-17"
-          href="_static/comment-close.png"
-          media-type="image/png" />
-    <item id="epub-18"
-          href="_static/comment.png"
-          media-type="image/png" />
-    <item id="epub-19"
-          href="_static/down-pressed.png"
-          media-type="image/png" />
-    <item id="epub-20"
-          href="_static/down.png"
-          media-type="image/png" />
-    <item id="epub-21"
-          href="_static/epub.css"
-          media-type="text/css" />
-    <item id="epub-22"
-          href="_static/file.png"
-          media-type="image/png" />
-    <item id="epub-23"
-          href="_static/minus.png"
-          media-type="image/png" />
-    <item id="epub-24"
-          href="_static/plus.png"
-          media-type="image/png" />
-    <item id="epub-25"
-          href="_static/pygments.css"
-          media-type="text/css" />
-    <item id="epub-26"
-          href="_static/up-pressed.png"
-          media-type="image/png" />
-    <item id="epub-27"
-          href="_static/up.png"
-          media-type="image/png" />
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="epub-0" href="01-intro.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-1" href="02-gettingstarted.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-2" href="03-creating.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-3" href="04-basics.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-4" href="05-conflict.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-5" href="06-nonconflict.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-6" href="07-advancedrules.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-7" href="08-advice.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-8" href="09-game.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-9" href="10-world.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-10" href="11-setting.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-11" href="12-adventure.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-12" href="13-scene.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-13" href="14-moment.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-14" href="15-about.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-15" href="about.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-16" href="advancedrules.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-17" href="advice.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-18" href="basics.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-19" href="conflict.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-20" href="creating.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-21" href="genindex.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-22" href="gettingstarted.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-23" href="index.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-24" href="intro.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-25" href="nonconflict.xhtml" media-type="application/xhtml+xml" />
+    <item id="epub-26" href="_images/charsheet.png" media-type="image/png" />
+    <item id="epub-27" href="_images/sampleroll.png" media-type="image/png" />
+    <item id="epub-28" href="_images/samplescene.png" media-type="image/png" />
+    <item id="epub-29" href="_static/ajax-loader.gif" media-type="image/gif" />
+    <item id="epub-30" href="_static/basic.css" media-type="text/css" />
+    <item id="epub-31" href="_static/comment-bright.png" media-type="image/png" />
+    <item id="epub-32" href="_static/comment-close.png" media-type="image/png" />
+    <item id="epub-33" href="_static/comment.png" media-type="image/png" />
+    <item id="epub-34" href="_static/down-pressed.png" media-type="image/png" />
+    <item id="epub-35" href="_static/down.png" media-type="image/png" />
+    <item id="epub-36" href="_static/epub.css" media-type="text/css" />
+    <item id="epub-37" href="_static/file.png" media-type="image/png" />
+    <item id="epub-38" href="_static/minus.png" media-type="image/png" />
+    <item id="epub-39" href="_static/plus.png" media-type="image/png" />
+    <item id="epub-40" href="_static/pygments.css" media-type="text/css" />
+    <item id="epub-41" href="_static/up-pressed.png" media-type="image/png" />
+    <item id="epub-42" href="_static/up.png" media-type="image/png" />
   </manifest>
-  <spine toc="ncx">
-    <itemref idref="epub-8" />
-    <itemref idref="epub-9" />
-    <itemref idref="epub-7" />
-    <itemref idref="epub-5" />
-    <itemref idref="epub-3" />
-    <itemref idref="epub-4" />
-    <itemref idref="epub-10" />
-    <itemref idref="epub-1" />
-    <itemref idref="epub-2" />
-    <itemref idref="epub-0" />
-    <itemref idref="epub-6" />
+  <spine toc="ncx" page-progression-direction="ltr">
+    <itemref idref="epub-23" />
+    <itemref idref="epub-21" />
+    <itemref idref="epub-0" linear="no" />
+    <itemref idref="epub-1" linear="no" />
+    <itemref idref="epub-2" linear="no" />
+    <itemref idref="epub-3" linear="no" />
+    <itemref idref="epub-4" linear="no" />
+    <itemref idref="epub-5" linear="no" />
+    <itemref idref="epub-6" linear="no" />
+    <itemref idref="epub-7" linear="no" />
+    <itemref idref="epub-8" linear="no" />
+    <itemref idref="epub-9" linear="no" />
+    <itemref idref="epub-10" linear="no" />
+    <itemref idref="epub-11" linear="no" />
+    <itemref idref="epub-12" linear="no" />
+    <itemref idref="epub-13" linear="no" />
+    <itemref idref="epub-14" linear="no" />
+    <itemref idref="epub-15" linear="no" />
+    <itemref idref="epub-16" linear="no" />
+    <itemref idref="epub-17" linear="no" />
+    <itemref idref="epub-18" linear="no" />
+    <itemref idref="epub-19" linear="no" />
+    <itemref idref="epub-20" linear="no" />
+    <itemref idref="epub-22" linear="no" />
+    <itemref idref="epub-24" linear="no" />
+    <itemref idref="epub-25" linear="no" />
   </spine>
   <guide>
-    <reference type="toc" title="Table of Contents" href="index.html" />
+    <reference type="toc" title="Table of Contents" href="index.xhtml" />
   </guide>
 </package>
