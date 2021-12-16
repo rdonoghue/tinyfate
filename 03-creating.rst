@@ -61,7 +61,7 @@ Seemingly simple aspects like *Strong*, *Thief*, or *Shy* are interesting, if th
 
 Remember, They’re Your Aspects
 ++++++++++++++++++++++++++++++
-While everyone is responsible for talking about and understanding the truth of an aspect, interesting is no one else’s business but yours.
+While everyone is responsible for talking about and understanding the truth of an aspect, 'interesting' is no one else’s business but yours.
 If someone else thinks your aspect would be more interesting in some other way, then they are welcome to use their version of the aspect on their character.
 Aspects are a very important part of play.
 Not only are they an essential part of the characters, they are also an important part of the world.
@@ -94,3 +94,15 @@ Sample Character
 ================
 
 .. image:: assets/charsheet.png
+
+
+Summary
+=======
+At the table you want to have:
+* 1 character card for each player
+* 1 status card for each player
+* A stack of blank index cards
+* Enough Pens for everyone
+* Enough dice for everyone (4 per player)
+* A bowl of tokens, enough to have about 8 per player (including the GM)
+* An appreciation of the other people at the table. 
