@@ -96,13 +96,3 @@ Sample Character
 .. image:: assets/charsheet.png
 
 
-Summary
-=======
-At the table you want to have:
-* 1 character card for each player
-* 1 status card for each player
-* A stack of blank index cards
-* Enough Pens for everyone
-* Enough dice for everyone (4 per player)
-* A bowl of tokens, enough to have about 8 per player (including the GM)
-* An appreciation of the other people at the table. 
